@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App02_BtnNome</string>
+    <string name="txt_nome_label">Digite seu nome:</string>
+    <string name="hint_nome">Seu nome aqui</string>
+    <string name="txt_email_label">Digite seu e-mail:</string>
+    <string name="hint_email">exemplo@email.com</string>
+    <string name="btn_clique">Mostrar Dados</string>
+    <string name="res_nome">Aguardando nome…</string>
+    <string name="res_email">Aguardando e-mail…</string>
+</resources>
